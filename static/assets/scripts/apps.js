@@ -271,6 +271,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'game', 'cloud'],
       blank: 'true',
     },
+    {
+      name: 'Mathway',
+      link: 'https://www.mathway.com/Algebra',
+      image: '/assets/media/icons/fixed-removebg-preview.png',
+      categories: ['all', 'game', 'cloud'],
+      blank: 'true',
+    },
   ]
 
   appsList.sort((a, b) => a.name.localeCompare(b.name))
