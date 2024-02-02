@@ -273,10 +273,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'Mathway',
-      link: 'https://www.mathway.com/Algebra',
+      link: 'https://mathway.com/',
       image: '/assets/media/icons/fixed-removebg-preview.png',
       categories: ['all', 'game', 'cloud'],
-      blank: 'true',
     },
   ]
 
